@@ -56,6 +56,29 @@ Aspiring AI Engineer passionate about building intelligent, data-driven solution
 
 ---
 
+### 🎮 Mini GitHub Game (Just for Fun)
+**Guess what I'm focusing on right now 👇**
+
+```text
+[ ] Frontend Development
+[x] Python & Machine Learning 🧠
+[ ] Mobile App Development
+[ ] Blockchain
+```
+
+🟢 **Progress Bar – AI Journey**
+
+```text
+Python Basics        ██████████░░ 80%
+Data Analysis        ███████░░░░░ 60%
+Machine Learning     █████░░░░░░ 40%
+AI Fundamentals      ████░░░░░░░ 35%
+```
+
+💡 *Level Up by building projects & committing consistently!*
+
+---
+
 <p align="center">
 ✨ *Learning every day • Building step by step • Growing with consistency* ✨
 </p>
