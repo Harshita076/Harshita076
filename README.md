@@ -58,7 +58,7 @@ Aspiring AI Engineer passionate about building intelligent, data-driven solution
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshita076&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
 </p>
 
 <p align="center">
@@ -71,26 +71,10 @@ Aspiring AI Engineer passionate about building intelligent, data-driven solution
 
 ---
 
-### 🎮 Mini GitHub Game (Just for Fun)
-**Guess what I'm focusing on right now 👇**
 
-```text
-[ ] Frontend Development
-[x] Python & Machine Learning 🧠
-[ ] Mobile App Development
-[ ] Blockchain
 ```
 
-🟢 **Progress Bar – AI Journey**
 
-```text
-Python Basics        ██████████░░ 80%
-Data Analysis        ███████░░░░░ 60%
-Machine Learning     █████░░░░░░ 40%
-AI Fundamentals      ████░░░░░░░ 35%
-```
-
-💡 *Level Up by building projects & committing consistently!*
 
 ---
 
