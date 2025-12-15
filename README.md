@@ -1,4 +1,7 @@
 <h1 align="center">✨ Hi, I'm Harshita 👋 ✨</h1>
+<p align="center">
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300" />
+</p>
 <h3 align="center">
 B.Sc. Artificial Intelligence (Pursuing) | AAFT Noida × Mangalayatan University
 </h3>
@@ -7,6 +10,10 @@ Aspiring AI Engineer passionate about building intelligent, data-driven solution
 </p>
 
 ---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ### 🌱 Currently Learning
 - Python Programming & Problem Solving
@@ -30,6 +37,10 @@ Aspiring AI Engineer passionate about building intelligent, data-driven solution
 
 ---
 
+<p align="center">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+</p>
+
 ### 🛠️ Languages & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
@@ -40,6 +51,10 @@ Aspiring AI Engineer passionate about building intelligent, data-driven solution
 </p>
 
 ---
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
