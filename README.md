@@ -69,17 +69,5 @@ Aspiring AI Engineer passionate about building intelligent, data-driven solution
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita076&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
-
-```
-
-
-
----
-
-<p align="center">
-✨ *Learning every day • Building step by step • Growing with consistency* ✨
-</p>
 
 
