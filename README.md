@@ -1,19 +1,23 @@
-<h1 align="center">✨ Hi, I'm Harshita 👋 ✨</h1>
+<h1 align="center">Hi 👋, I'm Harshita</h1>
+<h3 align="center">B.Sc. Artificial Intelligence (Pursuing) | AAFT Noida × Mangalayatan University</h3>
+
 <p align="center">
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Python+%7C+Machine+Learning+%7C+Data+Science;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 </p>
-<h3 align="center">
-B.Sc. Artificial Intelligence (Pursuing) | AAFT Noida × Mangalayatan University
-</h3>
+
 <p align="center">
-Aspiring AI Engineer passionate about building intelligent, data-driven solutions using Python and Machine Learning.
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" />
 </p>
 
 ---
 
-<p align="center">
+### 👩‍💻 About Me
+- 🎓 Currently pursuing **B.Sc. in Artificial Intelligence**
+- 🌱 Learning and growing in the field of **AI & Data Science**
+- 🧠 Interested in building **intelligent, data-driven solutions**
+- ✨ Strong believer in consistency and hands-on learning
 
-</p>
+---
 
 ### 🌱 Currently Learning
 - Python Programming & Problem Solving
@@ -21,53 +25,47 @@ Aspiring AI Engineer passionate about building intelligent, data-driven solution
 - SQL & Database Fundamentals
 - Machine Learning & AI Basics
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 ---
 
-### 📫 Reach Me At
-📧 **harshitakasana007@gmail.com**
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,git,github" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/harshita-kasana-71a677387" target="_blank" rel="noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshita-kasana-71a677387" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshitakasana007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
-</p>
-
-### 🛠️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-</p>
-
----
-
-<p align="center">
-
-</p>
 
 ### 📊 GitHub Stats
 <p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=harshita076&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita076&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita076&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita076&layout=compact&theme=tokyonight" height="140" />
 </p>
 
+---
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita076&theme=tokyonight" alt="GitHub Streak" />
+✨ <i>Learning every day • Building step by step • Growing with consistency</i> ✨
 </p>
+
 
 
 
