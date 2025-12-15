@@ -67,5 +67,13 @@
 </p>
 
 
+### 🚀 Featured Repositories
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshita076&repo=Python-Programming&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshita076&repo=Structured-Query-Language&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshita076&repo=Visualization-Tools&theme=tokyonight" />
+</p>
+
+
 
 
