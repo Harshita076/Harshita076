@@ -32,9 +32,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,git,github" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,mysql,git,github,opencv" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
 
 ---
 
