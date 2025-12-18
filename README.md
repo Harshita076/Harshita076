@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita</h1>
-<h3 align="center">B.Sc. Artificial Intelligence (Pursuing)
+<h3 align="center">B.Sc. Artificial Intelligence | Aspiring AI & Data Science Professional</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+%7C+Machine+Learning+%7C+Data+Science;Learning+%26+Building+Every+Day" alt="Typing SVG" />
