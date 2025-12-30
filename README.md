@@ -12,7 +12,6 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Currently pursuing **B.Sc. in Artificial Intelligence**
 - 🌱 Learning and growing in the field of **AI & Data Science**
 - 🧠 Interested in building **intelligent, data-driven solutions**
 - ✨ Strong believer in consistency and hands-on learning
